@@ -1,0 +1,2 @@
+use Xcompany
+select ProductNames from SoldPrdocuctsDatas

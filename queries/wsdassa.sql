@@ -1,0 +1,1 @@
+select ProductNames,ProductPrice from SoldPrdocuctsDatas,ProductPrices where SoldPrdocuctsDatas.ProductNames=ProductPrices.ProductPrice
